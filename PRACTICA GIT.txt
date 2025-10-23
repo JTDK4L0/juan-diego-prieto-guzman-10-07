@@ -1,0 +1,10 @@
+COMANDOS GIT
+ git -- version //
+ cmdkey /delete
+ cmdkey /delete:git:https://github.com
+ git init //inicializar repositorio
+ git config --global user.name "Diego 10-07"
+ git config user.name
+ git config --global user.email jdprietogu15@inemkennedy.edu.co
+ git config user.email
+ git status
