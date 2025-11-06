@@ -6,5 +6,5 @@ COMANDOS GIT
  git config --global user.name "Diego 10-07"
  git config user.name
  git config --global user.email jdprietogu15@inemkennedy.edu.co
- git config user.email
+ git config user.email // ver email
  git status // ver version
