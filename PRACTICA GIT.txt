@@ -4,7 +4,7 @@ COMANDOS GIT
  cmdkey /delete:git:https://github.com
  git init //inicializar repositorio
  git config --global user.name "Diego 10-07"
- git config user.name
+ git config user.name // ver nombre
  git config --global user.email jdprietogu15@inemkennedy.edu.co
  git config user.email // ver email
  git status // ver version
